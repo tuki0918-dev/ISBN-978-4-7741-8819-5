@@ -11,5 +11,11 @@
     "url": "''"
   },
   "author": "tuki0918",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.18.0",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0"
+  }
 }
